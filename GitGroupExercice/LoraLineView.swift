@@ -9,7 +9,7 @@ import SwiftUI
 
 struct LoraLineView: View {
     var body: some View {
-        Text("Lora-Line")
+        Text("Lora-Line !")
             .font(Font.largeTitle.bold())
             .foregroundStyle(Color.purple)
     }
